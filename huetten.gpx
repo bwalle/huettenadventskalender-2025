@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Beispiel" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="46.06275" lon="9.04488">
+    <name>Capanna Pairolo</name>
+  </wpt>
+  <wpt lat="47.052683" lon="9.72705">
+    <name>Totalphütte</name>
+  </wpt>
+  <wpt lat="47.646111" lon="11.934722">
+    <name>Rotwandhaus</name>
+  </wpt>
+  <wpt lat="46.43955" lon="8.51411">
+    <name>Capanna Basodino</name>
+  </wpt>
+  <wpt lat="47.704167" lon="12.243056">
+    <name>Spitzsteinhaus</name>
+  </wpt>
+  <wpt lat="47.034444" lon="9.835556">
+    <name>Lindauer Hütte</name>
+  </wpt>
+  <wpt lat="46.1" lon="9.01396">
+    <name>Capanna Monte Bar</name>
+  </wpt>
+  <wpt lat="46.60036" lon="11.662105">
+    <name>Raschötzhütte</name>
+  </wpt>
+  <wpt lat="47.677778" lon="11.839167">
+    <name>Bodenschneidhaus</name>
+  </wpt>
+  <wpt lat="47.693056" lon="12.980278">
+    <name>Stöhrhaus</name>
+  </wpt>
+  <wpt lat="47.57217" lon="13.03924">
+    <name>Schneibsteinhaus</name>
+  </wpt>
+  <wpt lat="46.471812" lon="8.526488">
+    <name>Capanna Cristallina</name>
+  </wpt>
+  <wpt lat="47.713167" lon="15.762083">
+    <name>Ottohaus</name>
+  </wpt>
+  <wpt lat="46.707917" lon="11.580117">
+    <name>Radlseehütte</name>
+  </wpt>
+  <wpt lat="47.65194" lon="11.63111">
+    <name>Lenggrieser Hütte</name>
+  </wpt>
+  <wpt lat="46.625319" lon="8.690195">
+    <name>Maighelshütte</name>
+  </wpt>
+  <wpt lat="47.024444" lon="11.813056">
+    <name>Berliner Huette</name>
+  </wpt>
+  <wpt lat="46.086483" lon="9.088472">
+    <name>Capanna San Lucio</name>
+  </wpt>
+  <wpt lat="47.586944" lon="12.869444">
+    <name>Blaueishütte</name>
+  </wpt>
+  <wpt lat="46.69251" lon="11.82675">
+    <name>Maurerberghütte</name>
+  </wpt>
+  <wpt lat="47.574722" lon="13.0425">
+    <name>Stahlhaus</name>
+  </wpt>
+  <wpt lat="47.078861" lon="9.78375">
+    <name>Heinrich-Hueter-Hütte</name>
+  </wpt>
+  <wpt lat="47.660833" lon="11.925556">
+    <name>Taubensteinhaus</name>
+  </wpt>
+  <wpt lat="46.59455" lon="8.65803">
+    <name>Vermigelhütte</name>
+  </wpt>
+</gpx>
