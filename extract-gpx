@@ -7,9 +7,9 @@ cat > "$OUTPUT" <<EOF
 <gpx version="1.1" creator="Beispiel" xmlns="http://www.topografix.com/GPX/1/1">
 EOF
 
-grep -R 'mlat='. | \
+grep -R 'mlat=' [0-9]* | \
     sort | \
-    sed -n 's/^.\/[0-9][0-9]-\([^:]*\)\/text:.*mlat=\([0-9.-]*\).*mlon=\([0-9.-]*\).*/ <wpt lat="\2" lon="\3"> <name>\1<\/name> <\/wpt> /p' >> "$OUTPUT"
+    sed -n 's/^[0-9][0-9]-\([^:]*\)\/text:.*mlat=\([0-9.-]*\).*mlon=\([0-9.-]*\).*/ <wpt lat="\2" lon="\3"> <name>\1<\/name> <\/wpt> /p' >> "$OUTPUT"
 
 cat >> "$OUTPUT" <<EOF
 </gpx>
